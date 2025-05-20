@@ -1,4 +1,8 @@
-## Hi there 👋
+## Naším hlavním produktem je HunterBox
+
+Domis Corp, s.r.o. je česká společnost specializující se na kybernetickou bezpečnost.
+
+Detekce hrozeb, odhalení zranitelností, phishing testování, monitoring úniků dat, navýšení firewall detekce, analýza logů, konzultace v oblasti kybernetické bezpečnosti a zajištění souladu s NIS2.
 
 <!--
 **domis-corp/domis-corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
